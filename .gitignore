@@ -57,3 +57,6 @@ Desktop.ini
 .mypy_cache/
 .coverage
 htmlcov/
+.venv
+__pycache__/
+db.sqlite3
